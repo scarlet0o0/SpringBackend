@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="629bd26c-90fa-4f5a-8050-975440160dfa" name="Changes" comment="fix: ---" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="intermediate" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <branch-grouping />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ECs6PGWgMpoPmjj3QoEqMzinEp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sunhong/IdeaProjects/-sparta-team12-8882&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;2bf8c2267cd13ca0cf3502a0319f5936&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="Gradle.-sparta-team12-888 [build]">
+    <configuration name="-sparta-team12-888 [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="-sparta-team12-888" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="-sparta-team12-888" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntermediateApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="intermediate.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.intermediate.IntermediateApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.-sparta-team12-888 [build]" />
+        <item itemvalue="Gradle.-sparta-team12-888 [build]" />
+        <item itemvalue="Gradle.-sparta-team12-888 [build]" />
+        <item itemvalue="Gradle.-sparta-team12-888 [build]" />
+        <item itemvalue="Gradle.-sparta-team12-888 [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="629bd26c-90fa-4f5a-8050-975440160dfa" name="Changes" comment="" />
+      <created>1662110725816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662110725816</updated>
+      <workItem from="1662110727858" duration="1729000" />
+      <workItem from="1662112777227" duration="1565000" />
+      <workItem from="1662162798394" duration="18468000" />
+      <workItem from="1662203115584" duration="749000" />
+      <workItem from="1662263734086" duration="8444000" />
+      <workItem from="1662280413834" duration="3576000" />
+      <workItem from="1662284632594" duration="49000" />
+      <workItem from="1662284685007" duration="6000" />
+      <workItem from="1662284700722" duration="3242000" />
+      <workItem from="1662336178962" duration="13307000" />
+      <workItem from="1662356605086" duration="5859000" />
+      <workItem from="1662377112897" duration="5550000" />
+      <workItem from="1662390251105" duration="1188000" />
+      <workItem from="1662424425168" duration="5101000" />
+      <workItem from="1662440835955" duration="9919000" />
+      <workItem from="1662451722069" duration="24000" />
+      <workItem from="1662459083197" duration="7991000" />
+      <workItem from="1662473876082" duration="236000" />
+      <workItem from="1662528407625" duration="1449000" />
+      <workItem from="1662540320925" duration="669000" />
+      <workItem from="1662541050034" duration="87000" />
+      <workItem from="1662541200804" duration="781000" />
+      <workItem from="1662542008600" duration="190000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1662167709520</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662167709520</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Feat: 댓글하트과 게시글하트 레파지토리 추가">
+      <created>1662168173521</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662168173521</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fix: 댓글하트과 게시글하트 코드 만듬 게시글 삭제시 댓글 삭제 구현">
+      <created>1662193658360</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662193658360</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fix: response할때 게시글 목록과 상세 게시글에 하트 갯수 포함">
+      <created>1662265237480</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662265237480</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fix: 리스폰 값 변경">
+      <created>1662268710758</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662268710758</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add: 댓글 하트 구현 완료">
+      <created>1662268790308</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662268790308</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add: 마이페이지 기능 추가">
+      <created>1662271062843</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1662271062843</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add: 대충 다 정리 했음">
+      <created>1662345083123</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1662345083123</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fix: 헤더에 액세스 토큰과 리프레시 토큰 담아서 보냄">
+      <created>1662348903036</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1662348903036</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fix: 이미지 업로드 수정 삭제 구현완료">
+      <created>1662389311570</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1662389311570</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fix: 사소한 오타 수정">
+      <created>1662429000414</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1662429000414</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fix: ---">
+      <created>1662443176068</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1662443176068</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Revert &quot;fix: 사소한 오타 수정&quot;&#10;&#10;This reverts commit c63d5f6d">
+      <created>1662443240827</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1662443240827</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="sunhong" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <MESSAGE value="Feat: 댓글하트과 게시글하트 레파지토리 추가" />
+    <MESSAGE value="Fix: 댓글하트과 게시글하트 코드 만듬 게시글 삭제시 댓글 삭제 구현" />
+    <MESSAGE value="Fix: response할때 게시글 목록과 상세 게시글에 하트 갯수 포함" />
+    <MESSAGE value="Fix: 리스폰 값 변경" />
+    <MESSAGE value="Add: 댓글 하트 구현 완료" />
+    <MESSAGE value="Add: 마이페이지 기능 추가" />
+    <MESSAGE value="Add: 대충 다 정리 했음" />
+    <MESSAGE value="fix: 헤더에 액세스 토큰과 리프레시 토큰 담아서 보냄" />
+    <MESSAGE value="fix: 이미지 업로드 수정 삭제 구현완료" />
+    <MESSAGE value="fix: 사소한 오타 수정" />
+    <MESSAGE value="Revert &quot;fix: 사소한 오타 수정&quot;&#10;&#10;This reverts commit c63d5f6d" />
+    <MESSAGE value="fix: ---" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: ---" />
+  </component>
+</project>
